@@ -7,6 +7,6 @@
   * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#%E9%98%B2%E5%BE%A1%E7%B1%BB%E5%B1%9E%E6%80%A7) 防御类属性
   * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#%E5%85%B6%E4%BB%96%E7%B1%BB%E5%B1%9E%E6%80%A7) 其他类属性
   
-[![](resources/doc.png)](https://gitee.com/CPJiNan/RPG-Numerical-Planning-Course)
+[![](resources/doc.png)](https://github.com/CPJiNan/RPG-Numerical-Planning-Course)
 [![](resources/qqgroup.png)](https://qm.qq.com/cgi-bin/qm/qr?k=l3sr0QxYTbSEr48WZ19XlXJEw0ojgh3b&authKey=RVefNepRoMmWEoh86MpNCYzH9fshpFipa6/Hb+IcZNIUdf96Ku7qaMyP9o263vl1&noverify=0)
 [![](resources/afdian.png)](https://afdian.net/a/CPJiNan)
