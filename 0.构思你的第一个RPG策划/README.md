@@ -6,6 +6,7 @@
 [Gitee](https://gitee.com/amazing-ocean-origin/origin-attribute)
 [插件文档](https://mc-origin.gitbook.io/originattribute/)  )
 ## 认识各种属性
+> 属性标签列表来自[插件文档](https://mc-origin.gitbook.io/originattribute/attribute/attribute-overview/shu-xing-biao-qian)
 ### 攻击类属性
     //单次攻击对敌人造成的伤害，类型为物理
     物理攻击  <范围值> 或 <固定值>
