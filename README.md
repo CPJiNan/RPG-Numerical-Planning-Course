@@ -16,7 +16,7 @@
   * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/2.%E6%95%8C%E4%BA%BA%E6%95%B0%E6%8D%AE%E7%9A%84%E7%AD%96%E5%88%92#%E6%95%8C%E4%BA%BA%E7%9A%84%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE) 敌人的技能设计
     * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/2.%E6%95%8C%E4%BA%BA%E6%95%B0%E6%8D%AE%E7%9A%84%E7%AD%96%E5%88%92#%E6%96%B0%E4%BA%BA%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%8E%9F%E5%88%9B%E6%8A%80%E8%83%BD%E7%BC%96%E5%86%99%E6%B5%81%E7%A8%8B) 新人友好的原创技能编写流程
 
-##
+## 加入我们
 [![](resources/doc.png)](https://github.com/CPJiNan/RPG-Numerical-Planning-Course)
 [![](resources/qqgroup.png)](https://qm.qq.com/cgi-bin/qm/qr?k=l3sr0QxYTbSEr48WZ19XlXJEw0ojgh3b&authKey=RVefNepRoMmWEoh86MpNCYzH9fshpFipa6/Hb+IcZNIUdf96Ku7qaMyP9o263vl1&noverify=0)
 [![](resources/afdian.png)](https://afdian.net/a/CPJiNan)
