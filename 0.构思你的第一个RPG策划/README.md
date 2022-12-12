@@ -1,10 +1,10 @@
 # 0.构思你的第一个RPG策划
 ## 序言
 ### 关于属性插件
-本文档配套使用的属性插件为 [源属性OriginAttribute](https://www.mcbbs.net/thread-1248537-1-1.html)  
-[MCBBS](https://www.mcbbs.net/thread-1248537-1-1.html) 
+本文档配套使用的属性插件为 [源属性OriginAttribute](https://www.mcbbs.net/thread-1248537-1-1.html)
+( [MCBBS](https://www.mcbbs.net/thread-1248537-1-1.html) 
 [Gitee](https://gitee.com/amazing-ocean-origin/origin-attribute)
-[插件文档](https://mc-origin.gitbook.io/originattribute/)  
+[插件文档](https://mc-origin.gitbook.io/originattribute/)  )
 ## 认识各种属性
 ### 攻击类属性
     //单次攻击对敌人造成的伤害，类型为物理
