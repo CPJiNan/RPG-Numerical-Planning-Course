@@ -1,4 +1,4 @@
-# 0.了解属性及其原理
+# 0.了解各类属性及其原理
 ## 序言
 ### 关于属性插件
 本文档配套使用的属性插件为 [源属性OriginAttribute](https://www.mcbbs.net/thread-1248537-1-1.html)

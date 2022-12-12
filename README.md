@@ -1,5 +1,5 @@
 # 目录
-## [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#0%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AArpg%E7%AD%96%E5%88%92) 0.了解属性及其原理
+## [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#0%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AArpg%E7%AD%96%E5%88%92) 0.了解各类属性及其原理
 * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#%E5%BA%8F%E8%A8%80) 序言
   * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#%E5%85%B3%E4%BA%8E%E5%B1%9E%E6%80%A7%E6%8F%92%E4%BB%B6) 关于属性插件
 * [|](https://github.com/CPJiNan/RPG-Numerical-Planning-Course/tree/main/0.%E6%9E%84%E6%80%9D%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AARPG%E7%AD%96%E5%88%92#%E8%AE%A4%E8%AF%86%E5%90%84%E7%A7%8D%E5%B1%9E%E6%80%A7) 认识属性标签
