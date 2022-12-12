@@ -23,7 +23,7 @@
 
 >技能写法详见[MythicMobs中文文档](https://gitlab.com/TranslatedByShark/Mythic-Manual-CN/-/wikis/%E6%8A%80%E8%83%BD/%E6%A6%82%E8%A7%88)
 
-### 新人友好的原创技能编写流程
+#### 新人友好的原创技能编写流程
 
 首先我们打开[MythicMobs技能语句列表](https://gitlab.com/TranslatedByShark/Mythic-Manual-CN/-/wikis/%E6%8A%80%E8%83%BD/%E5%88%97%E8%A1%A8)，从中选择自己想要的词条。  
 这里以想要制作敌人的自愈技能为例，选择heal词条。  
