@@ -51,9 +51,6 @@
      - heal{amount=50,oh=false} @self ~onDamaged 0.1
 
 如果我们想要改变技能的作用对象，则需将 @self 改为[MythicMobs中文文档](https://gitlab.com/TranslatedByShark/Mythic-Manual-CN/-/wikis/%E6%8A%80%E8%83%BD/%E7%9B%AE%E6%A0%87%E9%80%89%E6%8B%A9%E5%99%A8)中的其他 目标选择器 。  
-同理如果我们想要改变技能的触发条件，则需将 ~onDamaged 改为[MythicMobs中文文档](https://gitlab.com/TranslatedByShark/Mythic-Manual-CN/-/wikis/%E6%8A%80%E8%83%BD/%E8%A7%A6%E5%8F%91%E5%99%A8)中的其他 触发器。  
-
-技能的数值设定是一个复杂的过程，很遗憾它通常没有固定的公式可以直接套用。  
-但您仍可以反复调整一些数值，直到它实现了您理想中的效果。
+同理如果我们想要改变技能的触发条件，则需将 ~onDamaged 改为[MythicMobs中文文档](https://gitlab.com/TranslatedByShark/Mythic-Manual-CN/-/wikis/%E6%8A%80%E8%83%BD/%E8%A7%A6%E5%8F%91%E5%99%A8)中的其他 触发器。
 
 本篇结束。
